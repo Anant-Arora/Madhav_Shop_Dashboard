@@ -18,7 +18,7 @@ Overall Sales Performance:
 # Insights for Quarter Three:
 ![Quater 3](https://github.com/user-attachments/assets/91fbfcd2-9714-43c8-b990-15ae5847b3e3)
 
-Overall Sales Performance:
+
 1. August was the most profitable month in Q3, contributing positively to the quarter's performance.
 2. Clothing accounted for approximately 60% of total sales, making it the dominant product category.
 3. Bookcases were the most profitable sub-category, driving significant margins
@@ -27,6 +27,7 @@ Overall Sales Performance:
 # Insights for Quarter Four:
 ![Quater 4](https://github.com/user-attachments/assets/76209049-66cd-4de8-9f72-8618cbe66d75)
 
+Overall Sales Performance:
 1. November emerged as the most profitable month in Q4, showcasing peak sales and profitability.
 2. Clothing remained dominant, accounting for 65.52% of total sales quantity, reinforcing high product demand.
 3. 42.87% of payments were made via Cash on Delivery, showing customer preference for this method.
