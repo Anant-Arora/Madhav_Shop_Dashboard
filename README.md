@@ -26,3 +26,7 @@ Overall Sales Performance:
    
 # Insights for Quarter Four:
 ![Quater 4](https://github.com/user-attachments/assets/76209049-66cd-4de8-9f72-8618cbe66d75)
+
+1. November emerged as the most profitable month in Q4, showcasing peak sales and profitability.
+2. Clothing remained dominant, accounting for 65.52% of total sales quantity, reinforcing high product demand.
+3. 42.87% of payments were made via Cash on Delivery, showing customer preference for this method.
