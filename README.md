@@ -15,3 +15,14 @@ Overall Sales Performance:
 1. April was the most profitable month in Q2, showing strong performance,May saw a loss, indicating a decline in profitability during the mid-quarter.
 2. Printers were the most sold items in their sub-category.
 3. 60% of total sales came from the Clothing category, making it the largest revenue contributor.
+# Insights for Quarter Three:
+![Quater 3](https://github.com/user-attachments/assets/91fbfcd2-9714-43c8-b990-15ae5847b3e3)
+
+Overall Sales Performance:
+1. August was the most profitable month in Q3, contributing positively to the quarter's performance.
+2. Clothing accounted for approximately 60% of total sales, making it the dominant product category.
+3. Bookcases were the most profitable sub-category, driving significant margins
+4. 42.87% of payments were made via Cash on Delivery, indicating a preference for this payment method among customers.
+   
+# Insights for Quarter Four:
+![Quater 4](https://github.com/user-attachments/assets/76209049-66cd-4de8-9f72-8618cbe66d75)
